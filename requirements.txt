@@ -1,0 +1,11 @@
+streamlit>=1.22.0
+requests
+pandas
+numpy
+openpyxl
+
+# Add any project-specific dependencies below, for example:
+# scikit-learn
+# transformers
+# torch
+# openai
