@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Editor / OS
+.DS_Store
+.vscode/
+
+# Streamlit (but keep config.toml)
+.streamlit/*
+!.streamlit/config.toml
+
+# Data / models (if you add large models)
+*.pt
+*.bin
+*.h5
