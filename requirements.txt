@@ -1,0 +1,9 @@
+streamlit>=1.22.0
+pandas
+numpy
+
+# Add any project-specific dependencies below, for example:
+# scikit-learn
+# transformers
+# torch
+# openai
