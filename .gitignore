@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Editor / OS
+.DS_Store
+.vscode/
+
+# Data / models (if you add large models)
+*.pt
+*.bin
+*.h5
